@@ -29,7 +29,7 @@ This project was designed to demonstrate Python skills with:
 
 <img src='use-case-images/payment-table.png' width='800'>
 
-<img src='use-case-images/payment-plot.png' width='800'>
+<img src='use-case-images/payment-plot.png' width='600'>
 
 3. Multiple simulations can be sumarized with a table for easy comparisons
 
