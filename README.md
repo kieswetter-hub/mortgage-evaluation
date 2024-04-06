@@ -13,15 +13,13 @@ The cumulative loan costs were compared with regards to:
 
 This project was designed to demonstrate Python skills with:
 
-* data wrangling and cleaning Pandas
+* data wrangling and cleaning with Pandas
 * writing and calling functions
 * plotting with MatPlotLib
 
 ## Use Cases
 
-1. Evaluate and plot interest rates
-
-European wide interest rates were imported and compared to visualize fluctuations over time.
+1. Plot and evaluate interest rate fluctuations over time
 
 <img src='use-case-images/historical-interest-rates.png' width='600'>
 
